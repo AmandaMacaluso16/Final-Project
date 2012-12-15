@@ -3,9 +3,9 @@ body {
 	font-size: 14px;
 	font-style: normal;
 	font-weight: normal;
-	color: #FFF;
+	color: #0CF;
 	text-decoration: none;
-	background-color: #FFF;
+	background-color: #666;
 	list-style-position: outside;
 }
 .wrapper {
@@ -27,4 +27,7 @@ body {
 	margin-right: auto;
 	padding-top: 0px;
 	color: #FF0;
+}
+.navigation table tr td a {
+	color: #FFF;
 }

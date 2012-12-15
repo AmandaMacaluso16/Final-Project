@@ -5,9 +5,7 @@
 <!-- TemplateBeginEditable name="doctitle" -->
 <title>Untitled Document</title>
 <!-- TemplateEndEditable -->
-<!-- TemplateBeginEditable name="head" -->
-<!-- TemplateEndEditable -->
-<link href="../styles.css" rel="stylesheet" type="text/css" /><style type="text/css">
+<link href="../styles.css" rel="stylesheet" type="text/css" /><style type="text/css"> 
 .wrapper .wrapper img {
 	background-color: #FFF;
 }
@@ -19,35 +17,28 @@
 </head>
 
 <body>
-<img src="../welcome-banner.jpg" width="559" height="144" alt="welcome-banner" />
 
+<img src="../images/welcome-banner.jpg" width="559" height="144" alt="welcome-banner" />
 	<div class="wrapper">
     	<div class="navigation"></div>
-    	<div class="wrapper">
-    	  <!-- TemplateBeginEditable name="main content area" -->   
-    	  <p>Information about the site</p>
-    	  <p>what the goal is</p>
-    	  <p>blah blah blah</p>
-    	  <p>&nbsp;</p>
-    	  <p>&nbsp;</p>
-    	  <!-- TemplateEndEditable -->
-    	  
-   	  </div>
-        <div class="navigation"><br />
+    	<div class="wrapper"></div>
+        <div class="navigation">
 <table>
   <tr>
-    <td><a href="../index.html">Homepage</a></td>
-    <td><a href="../Arms.html">Arms</a></td>
-    <td><a href="../Legs.html">Legs</a></td>
-    <td><a href="../Stomach.html">Stomach</a></td>
-    <td><a href="../Glutes.html">Glutes</a></td>
+    <td><strong><a href="../index.html">Homepage</a></strong></td>
+    <td><a href="../Arms.html"><strong>Arms</strong></a></td>
+    <td><strong><a href="../Legs.html">Legs</a></strong></td>
+    <td><a href="../Stomach.html"><strong>Stomach</strong></a></td>
+    <td><strong><a href="../Glutes.html">Glutes</a></strong></td>
   </tr>
 </table>
-
         </div>
     	<div class="footer">
+		<br/> 
+        <br/> 
+        <br/> 
+		<!-- TemplateBeginEditable name="Introductory Content" --><!-- TemplateEndEditable -->
     	</div>
-	</div>
-	<p>&nbsp;</p>
+	
 </body>
 </html>
