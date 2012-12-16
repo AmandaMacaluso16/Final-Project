@@ -18,7 +18,7 @@
 
 <body>
 
-<img src="../images/welcome-banner.jpg" alt="welcome-banner" width="559" height="144" align="absmiddle" />
+<img src="../images/welcome-banner.jpg" alt="welcome-banner" width="559" height="144" align="middle" />
 	<div class="wrapper">
     	<div class="navigation"></div>
     	<div class="wrapper"></div>
@@ -41,6 +41,6 @@
 		<h1>&nbsp;</h1>
 		<!-- TemplateEndEditable -->
     	</div>
-	
+	</div>
 </body>
 </html>
